@@ -10,7 +10,7 @@ Um programa de formação e qualificação profissional de novos desenvolvedores
 
 Ao final da formação, além da certificação de participação, os `selecionados podem ter a chance de ser contratados pelas empresas apoiadoras`.
 
-> Saiba mais clicando [aqui](http://campinas.tech/campinas-tech-talents/) 👈🏼
+> Saiba mais clicando [**aqui**](http://campinas.tech/campinas-tech-talents/) 👈🏼
 # :station: Trilhas de formação
 
 Conheça as linguagens de programação ofertadas e a empresa apoiadora de cada uma delas. Escolha a sua preferida para tornar-se um desenvolvedor capacitado pelo programa.
