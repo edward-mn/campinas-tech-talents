@@ -1,11 +1,19 @@
-# campinas-tech-talents
-CTT course about Node.js offered by Sensedia
+# Campinas tech talents
 
-# Projeto CTT
+Course about Node.js offered by [Sensedia](https://www.sensedia.com/)
 
-## Bem-vindos!
+# Tech used
 
+- Htm
+- Css
+- Bootstrap
+- JavaScript
+- Node.js
+- Nestjs
+- Npm
+- Express
+- Nodemon
+- Swagger.io
+- API Sensedia
 
-* Caio
-* João
-* Joana 
+> Know more clicking right [here](http://campinas.tech/campinas-tech-talents/)
