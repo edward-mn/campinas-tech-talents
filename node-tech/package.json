@@ -1,0 +1,21 @@
+{
+  "name": "curso-ctt-nodejs",
+  "version": "1.0.0",
+  "description": "Aprendendo a instalar o NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "inicio": "echo \"Vai rodar meu script\" && nodemon index.js"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "JavaScript"
+  ],
+  "author": "Edward Moreira - CTT",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
